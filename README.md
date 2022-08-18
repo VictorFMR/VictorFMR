@@ -1,0 +1,7 @@
+- Hi. I’m Víctor (@VictorFMR), a product manager and a developer. 
+- Sometimes I have worked as UX designer and researcher too, and for a long time I was a marketing specialist and a content developer 
+- (yes, I'm pretty old and you will be so, don't be a dumb).
+- I’m interested in science, poetry, art, games and programming (currently learning JavaScript, Python and C++).
+- I’m working in a couple of quite absorbent projects right now, so not really willing to get into new ones at the moment, but who knows?
+- If you want, you can reach me sending an email to victor.munoz.ramirez@gmail.com.
+- Cheers. See you around.
