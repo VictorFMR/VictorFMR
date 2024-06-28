@@ -1,6 +1,5 @@
-- Hi. I’m Víctor (@VictorFMR), a product manager and a developer. 
-- Sometimes I have worked as a UX designer and a UX researcher as well, and for a long time I was a marketing specialist and a content developer (yes, I'm pretty old, tempus fugit).
-- I’m interested in science, poetry, art, games and programming (currently learning JavaScript, Python and C++).
+- Hi. I’m Víctor (@VictorFMR), an indie game designer / developer. 
+- I have worked as a UX designer and researcher as well, and for a long time I was a marketing specialist and a content developer (yes, I'm pretty old, tempus fugit).
+- I’m interested in science, poetry, art, games and programming (currently improving my C++ skills).
 - I’m working in a couple of quite interesting but also time consuming projects right now, so not really willing to get into new ones at the moment, but who knows?
-- If you want, you can reach me sending an email to victor.munoz.ramirez@gmail.com.
-- Cheers. See you around.
+- See you around.
