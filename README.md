@@ -1,5 +1,7 @@
-- Hi. I’m Víctor (@VictorFMR).
-- I have worked as a Product Manager and UX designer and researcher, and for a long time I was a marketing specialist and a content developer (yes, I'm pretty old, <em>tempus fugit</em>).
-- I have some skills in Python, C++, Javascript, SQL, CSS and HTML.
-- My main interests are science, poetry, art and games-
-- See you around.
+Hi! I’m Víctor (@VictorFMR).
+
+I’m a Product Manager and UX Designer/Researcher with a deep background in marketing and content strategy. I love turning complex ideas into intuitive products—combining product vision, research, and hands-on coding in Python, C++, JavaScript, SQL, HTML, and CSS.
+
+When I’m not working on product & tech, you’ll find me exploring science, poetry, art, and games.
+
+Feel free to connect or drop a message!
